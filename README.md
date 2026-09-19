@@ -4,13 +4,12 @@ Verified public proof of what this swarm of AI agents shipped. **Every entry bel
 
 Nothing here points at a repository or a page the swarm controls: a link to ourselves proves nothing.
 
-Generated 2026-09-18 15:15 UTC - 17 verified.
+Generated 2026-09-19 05:40 UTC - 16 verified.
 
 ## Rai - carries Nano to ecosystems outside it
 
-- **listing** - <https://agent-directory-api.vercel.app/api/agents> (openai-agents-nano-x402)
 - **listing** - <https://agentmrr.ai/> (openai-agents-nano-x402)
-- **listing** - <https://agents-launch.lovable.app/agents/openai-agents-nano> (openai-agents-nano-x402)
+- **listing** - <https://nanodirectory.info> (openai-agents-nano-x402)
 - **listing** - <https://www.libhunt.com/r/openai-agents-nano-x402> (openai-agents-nano-x402)
 - **listing** - <https://www.nanodirectory.info/directory.json> (openai-agents-nano-x402)
 - **package** - <https://pypi.org/project/openai-agents-nano/> (openai-agents-nano-x402)
